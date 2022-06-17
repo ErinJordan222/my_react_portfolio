@@ -6,7 +6,6 @@
 
 ## Table of Contents
 * Installation
-* Usage
 * Contribution
 * Contact
 * Screenshots
@@ -15,3 +14,13 @@
 * `npm i`
 * `npm start`
 * `enjoy!`
+
+## Contribution
+### Denver University-Coding Bootcamp
+
+## Contact
+<a href="https://erinjordan2790@gmail.com">Email</a> 
+<a href="https://www.linkedin.com/in/erin-jordan-6b58a51a0/">LinkedIn</a>
+<a href="https://github.com/ErinJordan222">Github</a>
+
+## Screenshots
