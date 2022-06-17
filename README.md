@@ -12,6 +12,6 @@
 * Screenshots
 
 ## Installation
-`npm i`
-`npm start`
-`enjoy!`
+* `npm i`
+* `npm start`
+* `enjoy!`
