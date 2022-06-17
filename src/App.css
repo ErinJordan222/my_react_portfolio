@@ -3,9 +3,9 @@
 }
 
 :root {
-  --primary: #809BCE;
+  --primary: #5e60ce;;
   --secondary: #95B8D1;
-  --tertiary: #B8E0D2;
+  --tertiary: #02C3BD;
   --quaternary: #D6EADF;
   --quinary: #EAC4D5;
   --light: #fafafa;
@@ -170,7 +170,7 @@ a {
   color: var(--secondary);
   font-size:35px;
   background-color: var(--tertiary);
-  border-radius: 10%;
+  /* border-radius: 10%; */
   padding: 10px;
   opacity: .8;
 
