@@ -2,16 +2,17 @@
 
 ## Description
 ### Erin Jordan's react portfolio Week 20 Project for Denver University- Coding Bootcamp.
-### A portfolio including 'About Me', 'Portfolio', 'Contact' and 'Resume'.
+### A portfolio including 'About Me', 'Portfolio' (project's section), 'Contact' and 'Resume'.
 
 ## Deploy
 https://erin-jordan-react-portfolio-22.herokuapp.com/
 
 ## Table of Contents
-* Installation
-* Contribution
-* Contact
-* Screenshots
+* [Installation](#installation)
+* [Contribution](#contribution)
+* [Contact](#contact)
+* [Video](#video)
+* [Screenshots](#screenshots)
 
 ## Installation
 * `npm i`
