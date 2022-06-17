@@ -24,7 +24,7 @@
 <a href="https://github.com/ErinJordan222">Github</a>
 
 ## Screenshots
-<img src="./aboutme.png" alt="aboutme_screenshot">
+<img src="./Readme/aboutme.png" alt="aboutme_screenshot">
 <img src="./Readme/portfolio.png" alt="portfolio_screenshot">
 <img src="./Readme/contact.png" alt="contact_screenshot">
 <img src="./Readme/resume.png" alt="resume_screenshot">
