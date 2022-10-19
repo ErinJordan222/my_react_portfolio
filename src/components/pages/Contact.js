@@ -11,6 +11,7 @@ function Contact() {
     return (
         <section>
  <h1 className="contact">Contact Me</h1>
+ <p>Reach out to me through Email, LinkedIn, Phone/Text, Github</p>
  <div className="contact-container">
  <div className="wrapper">
  <a href="mailto:erinjordan2790@gmail.com"><img src={email} alt="email_icon"/></a>
