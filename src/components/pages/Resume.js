@@ -6,7 +6,7 @@ import js from './Resume/js.png';
 
 const Resume = () => (
     <div>
-        {/* <h1 className="resume-list">Resume</h1> */}
+        <h1 className="resume-list">Resume</h1>
 
         <div className="resume-link">
         <a href="https://docs.google.com/document/d/1LT48opPFR3DAA6ko50DCAtSSXRGcAgUBFa7xceIvIf4/edit?usp=sharing">Resume<img src={document} alt="document_icon"/></a>

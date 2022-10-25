@@ -7,7 +7,7 @@ function Contact() {
  <h1 className="contact">Contact Me</h1>
  <div className="contact-container">
  <div className="wrapper">
- <a href="mailto:erinjordan2790@gmail.com"><img src={email}/></a>
+ <a href="mailto:erinjordandeveloper@gmail.com"><img src={email}/></a>
   
  <a href="https://www.linkedin.com/in/erin-jordan-6b58a51a0/"><img src={linkedin}/></a>
         <a href="https://github.com/ErinJordan222"><img src={github} alt="github_icon"/></a>
