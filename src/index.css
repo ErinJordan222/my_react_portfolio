@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@media screen and (max-width: 768px) {
+  .card {
+    width: 100%;
+  }
+  /* Change the header color */
+  header {
+    background: #8ac4ff;
+  }
+}
